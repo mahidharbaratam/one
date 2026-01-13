@@ -33,7 +33,7 @@
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://34.203.28.190:8081/repository/Mahi/</url>
+		    <url>http://100.31.194.158:8081/repository/Mahidhar/</url>
 		</repository>
   	</distributionManagement>
 	
